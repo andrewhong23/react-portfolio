@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.8e242373.css",
+    "main.js": "/react-portfolio/static/js/main.79349bff.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/updated-note-taker - Copy.jpg": "/react-portfolio/static/media/updated-note-taker - Copy.e80942cf48731ddb3308.jpg",
+    "static/media/tech-blog-screenshot.jpg": "/react-portfolio/static/media/tech-blog-screenshot.f6994b38f793df4e49c5.jpg",
+    "static/media/updated-jda-screen - Copy.jpg": "/react-portfolio/static/media/updated-jda-screen - Copy.06f4fec7200ce0de6c15.jpg",
+    "static/media/note-taking-screen-shot.jpg": "/react-portfolio/static/media/note-taking-screen-shot.3001f0a47f5cd8990ebb.jpg",
+    "static/media/new-jda-screen.jpg": "/react-portfolio/static/media/new-jda-screen.71eebfecf9c4c4e67682.jpg",
+    "index.html": "/react-portfolio/index.html",
+    "main.8e242373.css.map": "/react-portfolio/static/css/main.8e242373.css.map",
+    "main.79349bff.js.map": "/react-portfolio/static/js/main.79349bff.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e242373.css",
+    "static/js/main.79349bff.js"
+  ]
+}
